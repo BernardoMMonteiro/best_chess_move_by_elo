@@ -2,11 +2,14 @@
 name = "chess-best-move-rating"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Bernardo Monteiro <bernardomcmonteiro@gmail.com>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.13"
+berserk = "^0.13.2"
+dotenv = "^0.9.9"
 
 
 [tool.poetry.group.dev.dependencies]

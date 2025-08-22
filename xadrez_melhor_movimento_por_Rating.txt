@@ -1,0 +1,7 @@
+Ideia; 
+-baixar base de dados lichess
+
+-Verificar melhores movimentos por faixa de rating de acordo com vitorias/avaliacao do stockfish (talvez uma avaliacao ponderada pela prob da jogada do adversario?)
+
+-Fazer um dashboard permitindo um usuario escolher qual?
+
